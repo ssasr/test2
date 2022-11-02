@@ -1,0 +1,29 @@
+.svg-icon,.search-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    /* &:focus,&:hover {
+      .search-path {
+        stroke: #299ecc;
+      }
+    }
+    &:active {
+      .search-path {
+        stroke: #111516;
+        stroke-width: 2px;
+      }
+    } */
+  }
+  
+#first_img_div,#search_div,h1{
+    display: inline-block;
+/* h6{
+  margin: 0px;
+  padding: 0px;
+} */
+}
+#hospital_icon{
+    display: inline-block;
+    height: 8em;
+    width: 8em;
+}
